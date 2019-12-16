@@ -384,7 +384,7 @@ abstract class AbstractGenerator implements GeneratorInterface
             ), $status);
         }
     }
-
+    
     /**
      * Creates a temporary file.
      * The file is not created if the $content argument is null.
